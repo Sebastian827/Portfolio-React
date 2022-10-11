@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.3ad552fa.css",
+    "main.js": "/Portfolio-React/static/js/main.bf94c256.js",
+    "static/js/787.27ca2965.chunk.js": "/Portfolio-React/static/js/787.27ca2965.chunk.js",
+    "static/media/rana.jpg": "/Portfolio-React/static/media/rana.4c9bde976d751d646c52.jpg",
+    "static/media/Curriculum.pdf": "/Portfolio-React/static/media/Curriculum.4d25ec60cd72e3589764.pdf",
+    "static/media/spri.png": "/Portfolio-React/static/media/spri.d17eb15a622b619a1e52.png",
+    "static/media/django.png": "/Portfolio-React/static/media/django.1561b91d7b75f3ca2814.png",
+    "static/media/JavaScript-logo.png": "/Portfolio-React/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
+    "static/media/java.png": "/Portfolio-React/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/Portfolio-React/index.html",
+    "main.3ad552fa.css.map": "/Portfolio-React/static/css/main.3ad552fa.css.map",
+    "main.bf94c256.js.map": "/Portfolio-React/static/js/main.bf94c256.js.map",
+    "787.27ca2965.chunk.js.map": "/Portfolio-React/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad552fa.css",
+    "static/js/main.bf94c256.js"
+  ]
+}
